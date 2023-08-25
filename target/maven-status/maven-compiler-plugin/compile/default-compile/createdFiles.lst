@@ -3,3 +3,4 @@ com\mycompany\temperaturaconverter\DescuentoCalculato.class
 com\mycompany\temperaturaconverter\CalculadoraDeIMC.class
 com\mycompany\temperaturaconverter\TemperaturaConverter.class
 com\mycompany\temperaturaconverter\VerificadorDeNúmerosPares.class
+com\mycompany\temperaturaconverter\ContadorDeVocales.class
