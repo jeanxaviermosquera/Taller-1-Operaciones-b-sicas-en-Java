@@ -28,7 +28,7 @@ public class ContadorDeVocales {
         
     }
     
-       private static boolean validarSiEsVocal(char letra) {
+    private static boolean validarSiEsVocal(char letra) {
         return "aeiou".contains(String.valueOf(letra));
     }
 }
